@@ -1,1 +1,1 @@
-web: python3 hangupsbot/hangupsbot.py
+web: python3 hangupsbot/hangupsbot.py -d
